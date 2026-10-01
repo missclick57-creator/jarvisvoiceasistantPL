@@ -1,0 +1,16 @@
+google-generativeai
+edge-tts
+SpeechRecognition
+pyttsx3
+pygame
+pywebview
+psutil
+pyautogui
+librosa
+sounddevice
+scipy
+numpy
+pystray
+Pillow
+pycaw
+pypdf
